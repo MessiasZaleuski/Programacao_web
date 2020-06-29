@@ -1,0 +1,42 @@
+		.topo{
+			text-align: center;
+			background-color: #FF4500;
+			height: 200px;
+		}
+		h1{
+			text-align: center;
+			font-family: verdana;
+			text-shadow: 2px 2px 2px #FF4500;
+		}
+		.pesquisa{
+			text-align: center;
+		}
+		.conteudo{
+			text-align: center;
+			font-family: verdana;
+			font-size: 16px;
+			padding: 20px;
+
+		}
+		.rodape{
+			text-align: center;
+			font-family: verdana;
+			text-shadow: 2px 2px 2px #000;
+			color: 	#F5FFFA;
+			background-color: 	#FF4500;
+		}
+		h3{
+			text-align: center;
+			font-family: verdana;
+			font-size: 18px;
+		}
+		.p1{
+			background-color: #F5FFFA;
+		}
+		h6{
+			text-align: right;
+		}
+		.p{
+			font-size: 122px;
+		}
+
